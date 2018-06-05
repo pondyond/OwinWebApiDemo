@@ -1,0 +1,16 @@
+﻿1、
+Install-Package Microsoft.AspNet.WebApi.Owin -Version 0.21.0-pre
+	Microsoft.AspNet.WebApi.Core (>= 4.0.20710)
+	Owin (>= 1.0.0)
+
+2、
+Install-Package Microsoft.Owin -Version 2.1.0
+	Owin (>= 1.0.0)
+
+3、
+Install-Package Microsoft.Owin.Hosting -Version 2.1.0
+	Microsoft.Owin (>= 2.1.0)
+	Owin (>= 1.0.0)
+
+4、
+Install-Package Microsoft.Owin.Host.HttpListener -Version 2.1.0
